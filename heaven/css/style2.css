@@ -1,0 +1,27 @@
+footer {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-top: 30px;
+}
+.footleft {
+    width: 40%;
+    height: auto;
+    float: left;
+    overflow: hidden;
+    padding: 10px;
+    margin-left: 50px;
+}
+.map {
+    width: 40%;
+    height: 300px;
+    float: unset;
+    margin-right: 50px;
+    overflow: hidden;
+}
+nav ul li {
+    float: left;
+}
+p{
+    text-align: center;
+}

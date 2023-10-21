@@ -1,0 +1,13 @@
+.card-img-top{
+    
+    overflow: hidden;
+}
+
+.card-body {
+    background-color: black;
+}
+
+nav ul li a {
+   color: #adff2f;
+   overflow: auto;
+}
